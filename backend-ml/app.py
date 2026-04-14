@@ -20,7 +20,7 @@ CORS(app)  # allow cross-origin requests from frontend
 
 # Email Configuration
 EMAIL_SENDER = "shivathmik45@gmiail.com"
-EMAIL_PASSWORD = "SHIVATHMIKA54" # Application Passkey
+EMAIL_PASSWORD = "yoto dmgb uanq ncxd" # Application Passkey
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465 # Use SSL port for better reliability
 
